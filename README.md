@@ -18,7 +18,7 @@
 [3.2]: https://s4.uupload.ir/files/instagram_6djz.png
 [4.2]: https://s4.uupload.ir/files/telegram_q47u.png
 
-[1]: https://twitter.com/MaksimVyazovski
+[1]: https://twitter.com/MaximVyazovski
 [2]: https://www.linkedin.com/in/maksim-viazovski-395a95258/
 [3]: https://www.instagram.com/mvyazovski
 [4]: https://telegram.me/MViazovski
