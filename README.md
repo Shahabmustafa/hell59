@@ -1,4 +1,12 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Frontend+developer;UX%2FUI+designer;Passionate+universal+developer+I+am)](https://git.io/typing-svg)
+65 lines (42 sloc)  2.13 KB
+
+<div align="center" >
+ 
+ ![waving](https://capsule-render.vercel.app/api?type=waving&height=90&color=gradient)
+ 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Mouse+Memoirs&size=65&pause=500&color=06CD9C&vCenter=true&width=600&height=70&lines=Maksim+Viazovski;Hell59;a+Full-stack+Developer;UI%2FUX+Designer)](https://git.io/typing-svg)
+ 
+ </div>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
