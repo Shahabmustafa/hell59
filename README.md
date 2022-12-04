@@ -73,7 +73,7 @@
 
 <div align="center">
 
-  ![https://app.hackthebox.com/profile/1311653]([https://www.hackthebox.eu](https://www.hackthebox.eu)/badge/image/116871)
+ ![https://app.hackthebox.com/profile/1311653](https://www.hackthebox.eu/badge/image/1311653)
 
 </div>
 
