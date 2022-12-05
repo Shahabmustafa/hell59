@@ -74,8 +74,6 @@
 ## Cybersecurity
 
 <div align="center">
-
- ![https://app.hackthebox.com/profile/1311653](https://www.hackthebox.com/badge/image/1311653)
  
  ![https://app.hackthebox.com/profile/1311653](https://www.hackthebox.eu/badge/image/1311653)
 
