@@ -77,7 +77,6 @@
 
  
  ![Hell59](https://www.hackthebox.eu/badge/image/1311653)
-[![Hack The Box][https://fontawesomeicons.com/svg/icons/hackthebox][https://app.hackthebox.com/profile/1311653]
  
 </div>
 
