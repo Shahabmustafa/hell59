@@ -75,9 +75,10 @@
 
 <div align="center">
 
- <a href="[https://app.hackthebox.com/profile/1311653]" target="_blank"><img style="margin: 10px" src="[hhttps://iconduck.com/icons/1863/hack-the-box]" alt="Hack The Box account link" height="50" /></a> 
+ 
  ![Hell59](https://www.hackthebox.eu/badge/image/1311653)
-
+https://app.hackthebox.com/profile/1311653
+ 
 </div>
 
 ## Social Networks
